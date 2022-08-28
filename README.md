@@ -1,7 +1,3 @@
-## Ver en linea ⚛️
-
-https://petgram-git-main-miguelgdd.vercel.app
-
 ## curso-platzi-react-avanzado ⚛️
 
 **¡Sígueme en Youtube para más contenido de React y Javascript!** 👉 https://www.youtube.com/midudev
